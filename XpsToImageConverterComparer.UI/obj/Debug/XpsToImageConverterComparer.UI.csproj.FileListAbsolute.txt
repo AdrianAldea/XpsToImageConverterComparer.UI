@@ -1,0 +1,15 @@
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\bin\Debug\XpsToImageConverterComparer.UI.exe.config
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\bin\Debug\XpsToImageConverterComparer.UI.exe
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\bin\Debug\XpsToImageConverterComparer.UI.pdb
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\XpsToImageConverterComparer.UI\XpsToImageConverterComparer.UI\obj\Debug\XpsToImageConverterComparer.UI.csproj.AssemblyReference.cache
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\XpsToImageConverterComparer.UI\XpsToImageConverterComparer.UI\obj\Debug\XpsToImageConverterComparer.UI.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\XpsToImageConverterComparer.UI\XpsToImageConverterComparer.UI\obj\Debug\MainWindow.baml
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\XpsToImageConverterComparer.UI\XpsToImageConverterComparer.UI\obj\Debug\MainWindow.g.cs
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\XpsToImageConverterComparer.UI\XpsToImageConverterComparer.UI\obj\Debug\App.g.cs
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\XpsToImageConverterComparer.UI\XpsToImageConverterComparer.UI\obj\Debug\XpsToImageConverterComparer.UI_MarkupCompile.cache
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\XpsToImageConverterComparer.UI\XpsToImageConverterComparer.UI\obj\Debug\XpsToImageConverterComparer.UI.g.resources
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\XpsToImageConverterComparer.UI\XpsToImageConverterComparer.UI\obj\Debug\XpsToImageConverterComparer.UI.Properties.Resources.resources
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\XpsToImageConverterComparer.UI\XpsToImageConverterComparer.UI\obj\Debug\XpsToImageConverterComparer.UI.csproj.GenerateResource.cache
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\XpsToImageConverterComparer.UI\XpsToImageConverterComparer.UI\obj\Debug\XpsToImageConverterComparer.UI.csproj.CoreCompileInputs.cache
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\XpsToImageConverterComparer.UI\XpsToImageConverterComparer.UI\obj\Debug\XpsToImageConverterComparer.UI.exe
+D:\Programming\Programming-20230503T111053Z-001\Programming\Xps Converter-Comparer\XpsToImageConverterComparer.UI\XpsToImageConverterComparer.UI\obj\Debug\XpsToImageConverterComparer.UI.pdb
